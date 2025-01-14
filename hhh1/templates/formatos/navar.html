@@ -1,0 +1,28 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{% static 'estilos.css' %}">
+    
+</head>
+<body>
+    <nav>
+        <fieldset id="a">
+            
+            <button  type="button" class="btn btn-dark">
+                <a  class="bi bi-arrow-left-square-fill" href="{% url 'listar_productos' %}">Volver</a>
+            </button>
+
+            <h1>Sazón y pasión en cada plato</h1>
+
+            
+        </fieldset>
+    </nav>
+</body>
+</html>
+
+
+
