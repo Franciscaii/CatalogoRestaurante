@@ -23,8 +23,8 @@ Este proyecto es una aplicación web creada utilizando **Django**, **HTML**, **C
 
 ## 📷 Vista previa 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/Franciscaii/CatalogoRestaurante/blob/main/Captura%20de%20pantalla%202025-01-16%20195712.png" alt="Captura de pantalla" width="48%" />
   <img src="https://github.com/Franciscaii/CatalogoRestaurante/blob/main/Captura%20de%20pantalla%202025-01-16%20195651.png" alt="Captura de pantalla" width="48%" />
+  <img src="https://github.com/Franciscaii/CatalogoRestaurante/blob/main/Captura%20de%20pantalla%202025-01-16%20195712.png" alt="Captura de pantalla" width="24%" />
 </div>
 
 
